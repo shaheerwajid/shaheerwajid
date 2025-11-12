@@ -23,7 +23,15 @@ Hello! I'm **Shaheer Wajid**, a software engineering student at SZABIST Islamaba
 ---
 
 ## GitHub Stats 📊
-![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerwajid&show_icons=true&theme=radical)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerwajid&show_icons=true&theme=tokyonight&count_private=true&hide_title=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerwajid&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaheerwajid&theme=tokyonight)
+
+</div>
 
 ---
 
